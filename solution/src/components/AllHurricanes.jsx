@@ -44,7 +44,7 @@ export default function AllHurricanes() {
     return <div>
         <h1>Hurricane Finder</h1>
         <p>It would be helpful to provide search functionality here!</p>
-        <p>Maybe I could add controlled inputs and then run a <strong>useEffect</strong> when they change...</p>
+        <p>Maybe I could add controlled inputs...</p>
         <br/>
         <Container>
             <Row>
